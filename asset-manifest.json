@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ec7563bb.chunk.css",
+    "main.js": "./static/js/main.69f8a2be.chunk.js",
+    "main.js.map": "./static/js/main.69f8a2be.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b53abcf9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b53abcf9.js.map",
+    "static/css/2.c490997a.chunk.css": "./static/css/2.c490997a.chunk.css",
+    "static/js/2.79cd031a.chunk.js": "./static/js/2.79cd031a.chunk.js",
+    "static/js/2.79cd031a.chunk.js.map": "./static/js/2.79cd031a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.c490997a.chunk.css.map": "./static/css/2.c490997a.chunk.css.map",
+    "static/css/main.ec7563bb.chunk.css.map": "./static/css/main.ec7563bb.chunk.css.map",
+    "static/js/2.79cd031a.chunk.js.LICENSE.txt": "./static/js/2.79cd031a.chunk.js.LICENSE.txt",
+    "static/media/examen.37c42b96.png": "./static/media/examen.37c42b96.png",
+    "static/media/graduado.04d0e8f7.png": "./static/media/graduado.04d0e8f7.png",
+    "static/media/estilos.css": "./static/media/home-bg.ee3f23e2.jpg",
+    "static/media/libros.e85bd6ab.png": "./static/media/libros.e85bd6ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b53abcf9.js",
+    "static/css/2.c490997a.chunk.css",
+    "static/js/2.79cd031a.chunk.js",
+    "static/css/main.ec7563bb.chunk.css",
+    "static/js/main.69f8a2be.chunk.js"
+  ]
+}
