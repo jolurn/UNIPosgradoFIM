@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.ec7563bb.chunk.css",
+    "main.css": "./static/css/main.d10d6803.chunk.css",
     "main.js": "./static/js/main.69f8a2be.chunk.js",
     "main.js.map": "./static/js/main.69f8a2be.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b53abcf9.js",
@@ -10,7 +10,7 @@
     "static/js/2.79cd031a.chunk.js.map": "./static/js/2.79cd031a.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.c490997a.chunk.css.map": "./static/css/2.c490997a.chunk.css.map",
-    "static/css/main.ec7563bb.chunk.css.map": "./static/css/main.ec7563bb.chunk.css.map",
+    "static/css/main.d10d6803.chunk.css.map": "./static/css/main.d10d6803.chunk.css.map",
     "static/js/2.79cd031a.chunk.js.LICENSE.txt": "./static/js/2.79cd031a.chunk.js.LICENSE.txt",
     "static/media/examen.37c42b96.png": "./static/media/examen.37c42b96.png",
     "static/media/graduado.04d0e8f7.png": "./static/media/graduado.04d0e8f7.png",
@@ -21,7 +21,7 @@
     "static/js/runtime-main.b53abcf9.js",
     "static/css/2.c490997a.chunk.css",
     "static/js/2.79cd031a.chunk.js",
-    "static/css/main.ec7563bb.chunk.css",
+    "static/css/main.d10d6803.chunk.css",
     "static/js/main.69f8a2be.chunk.js"
   ]
 }
